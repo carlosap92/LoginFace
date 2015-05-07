@@ -1,0 +1,6 @@
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\Scrumptious\build\intermediates\classes\debug
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\Scrumptious\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-129b6842bae4123d7c9a98a8c1c9ec7dfb1aa839.jar
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\Scrumptious\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-945c2497fc6fd05a917195d469bad6a9a551cd3a.jar
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\Scrumptious\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-115c964d618408b3a616c379a175739d4cd6db16.jar
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\Scrumptious\build\intermediates\pre-dexed\debug\classes-2f3df3b39e6f1d362642215f7d107cffe4602be6.jar
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\Scrumptious\build\intermediates\pre-dexed\debug\classes-30a4e3637ef1c771dcbe44c8e6d754737965180b.jar

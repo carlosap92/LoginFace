@@ -1,0 +1,6 @@
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\RPSSample\build\intermediates\classes\debug
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\RPSSample\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-129b6842bae4123d7c9a98a8c1c9ec7dfb1aa839.jar
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\RPSSample\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-945c2497fc6fd05a917195d469bad6a9a551cd3a.jar
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\RPSSample\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-74b99e999e84c187f03a5a7949d452b6249fb4a9.jar
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\RPSSample\build\intermediates\pre-dexed\debug\classes-dc28054d4daf143e30541b4afaa51db979995b09.jar
+C:\Users\Gui\AndroidStudioProjects\LoginFace\samples\RPSSample\build\intermediates\pre-dexed\debug\classes-e5f221e3af1587417be796d47566e33d1cac5f12.jar
